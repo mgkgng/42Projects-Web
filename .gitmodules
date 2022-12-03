@@ -1,0 +1,3 @@
+[submodule "00-Piscine_Django"]
+	path = 00-Piscine_Django
+	url = https://github.com/mgkgng/42Projects-Piscine_Python-Django.git
