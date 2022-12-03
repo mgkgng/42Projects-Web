@@ -1,3 +1,6 @@
 [submodule "00-Piscine_Django"]
 	path = 00-Piscine_Django
 	url = https://github.com/mgkgng/42Projects-Piscine_Python-Django.git
+[submodule "00-Piscine_PHP_Symfony"]
+	path = 00-Piscine_PHP_Symfony
+	url = https://github.com/mgkgng/42Projects-Piscine_PHP_Symfony.git
